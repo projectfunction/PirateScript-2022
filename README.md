@@ -12,11 +12,11 @@ JavaScript starter pack for the 'Pirate Script' assignment
 
 ### Example
 ```javascript
-    console.log( piratize( "hello" ) ); // returns "elloharr"
+console.log( piratize( "hello" ) ); // returns "elloharr"
 
-    console.log( piratize( "hello world") ); // returns "elloharr orldwarr"
+console.log( piratize( "hello world") ); // returns "elloharr orldwarr"
 
-    console.log( piratize( "pizza costs 20 pounds" ) ); // returns "izzaparr ostscarr 20 doubloons"
+console.log( piratize( "pizza costs 20 pounds" ) ); // returns "izzaparr ostscarr 20 doubloons"
 ```
 
 ### Test Notes
